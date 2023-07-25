@@ -1,0 +1,10 @@
+* aws-foundation
+
+Base routines for AWS services
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/stablecross/aws-foundation.git   |
+| commit  | 7b8c66b  |
+| systems | aws-foundation |
+|---------+-------------------------------------------|
+
